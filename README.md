@@ -12,3 +12,5 @@ Tools Used in HWs:
 
 4-) MongoDB Command Line
 
+5-) MYSQL - Python Connection Modules and Libraries
+
