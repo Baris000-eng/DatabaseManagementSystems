@@ -17,7 +17,11 @@ Tools Used in HWs:
 
 HW GRADES:
 
-HW-1: 85
-HW-2: 100
-HW-3: 90
+HW-1: 85/100
+
+HW-2: 100/100
+
+HW-3: 90/100
+
+HW-4: 100/100
 
