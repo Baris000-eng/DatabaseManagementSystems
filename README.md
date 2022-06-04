@@ -14,3 +14,10 @@ Tools Used in HWs:
 
 5-) MYSQL - Python Connection Modules and Libraries
 
+
+HW GRADES:
+
+HW-1: 85
+HW-2: 100
+HW-3: 90
+
