@@ -10,7 +10,7 @@ Tools Used in HWs:
 
 3-) Python Programming Language
 
-4-) MongoDB Command Line
+4-) MongoDB Command Line (NoSQL)
 
 5-) MYSQL - Python Connection Modules and Libraries
 
