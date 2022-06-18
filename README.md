@@ -14,6 +14,22 @@ Tools Used in HWs:
 
 5-) MYSQL - Python Connection Modules and Libraries
 
+Tools Used in the Project:
+
+1-) Java Programming Language
+
+2-) MySQL (Relational Database Language)
+
+3-) Apache Maven (For Dependency Management Purposes)
+
+4-) Java & MySQL Connection Libraries
+
+5-) MySQL Terminal
+
+6-) Eclipse Integrated Development Environment (Eclipse IDE)
+
+7-) MySQL Workbench
+
 
 HW GRADES:
 
